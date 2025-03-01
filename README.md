@@ -1,7 +1,7 @@
 # mydashboard-readme
 # 🚀 Dashboard do Telegram – Gestão Inteligente de Bots  
 
-![Dashboard Preview](https://via.placeholder.com/1200x400?text=Dashboard+Preview)  
+![Dashboard Preview](https://github.com/Stream-studio-bit/mydashboard-readme/blob/main/dashboard.jpg)
 
 ## ✨ Sobre o Projeto  
 O **Dashboard do Telegram** foi desenvolvido para facilitar a gestão das interações e funcionalidades de bots no Telegram. Com um design moderno e uma interface intuitiva, a plataforma proporciona uma experiência fluida para administradores de grupos e canais.  
